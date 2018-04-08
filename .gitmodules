@@ -1,4 +1,4 @@
 [submodule "app/bot"]
 	path = app/bot
-	url = git@github.com:KarlCrypto/bot.git
+	url = git@github.com-crypto:KarlCrypto/bot.git
 	branch = master
