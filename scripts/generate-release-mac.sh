@@ -5,9 +5,9 @@ cd ..
 echo "==== Install ===="
 
 cd app
-npm install
+npm install --production
 cd bot
-npm install
+npm install --production
 cd ../..
 
 
@@ -26,15 +26,14 @@ echo "== Mac"
 cp -R app ./build/KarlCryptoBot-mac-x64/KarlCryptoBot.app/Contents/Resources/app
 
 
-echo "==== Preparing Zips ===="
-
-echo "== Mac"
-cd ./build/KarlCryptoBot-mac-x64
-zip -r ../../releases/KarlCryptoBot-mac-x64.zip KarlCryptoBot.app
-cd ../..
+echo "==== Signing ===="
+cd ./scripts
+./codesign-mac.sh
+cd ..
 
 
-echo "==== Cleaning ===="
-
-echo "== Mac"
-rm -rf ./build/KarlCryptoBot-mac-x64/KarlCryptoBot.app/Contents/Resources/app
+echo "==== Preparing DMG ===="
+dmg(){
+  hdiutil create -fs HFS+ -srcfolder "$1" -volname "$2" "./releases/$2-mac-x64.dmg"
+}
+dmg ./build/KarlCryptoBot-mac-x64/KarlCryptoBot.app KarlCryptoBot

@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>KarlCryptoBot Helper NP</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.karlcrypto.bot.NP</string>
+	<string>com.github.electron.helper.NP</string>
 	<key>CFBundleName</key>
 	<string>KarlCryptoBot Helper NP</string>
 	<key>CFBundlePackageType</key>

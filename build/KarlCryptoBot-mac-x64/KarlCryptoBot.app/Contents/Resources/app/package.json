@@ -1,0 +1,23 @@
+{
+  "name": "karl-crypto-bot-desktop",
+  "description": "Bot for binance",
+  "version": "0.0.1",
+  "main": "main.js",
+  "authors": "Karl Crypto <>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "npm install && electron ."
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "keymaster": "^1.6.2",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "strip": "^3.0.0"
+  },
+  "devDependencies": {
+    "electron": "^1.7.11"
+  },
+  "repository": "https://github.com/KarlCrypto/bot-desktop"
+}
