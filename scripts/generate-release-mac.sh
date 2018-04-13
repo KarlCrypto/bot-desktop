@@ -17,7 +17,7 @@ echo "== Mac"
 rm -rf ./build/KarlCryptoBot-mac-x64/KarlCryptoBot.app/Contents/Resources/app
 
 echo "== Releases"
-rm -rf ./releases/KarlCryptoBot-mac-x64.zip
+rm ./releases/KarlCryptoBot-mac-x64.dmg
 
 
 echo "==== Copying app ===="

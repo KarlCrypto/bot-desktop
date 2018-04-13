@@ -42,6 +42,7 @@ const TrailingStopModel = function (Symbol, req) {
 
 	this.buy = {
 		price: req.buy && req.buy.price ? Number(req.buy.price) : null,
+		value: req.buy && req.buy.price && req.quantity ? req.buy.price * req.quantity : null,
 	}
 
 	this.stop = {
@@ -70,6 +71,14 @@ const TrailingStopModel = function (Symbol, req) {
 		ratio: _.get(req, 'totalGain.ratio', 0),
 	}
 
+	// Current variation : Buy price -> Current Price
+	this.current = {
+		pips: _.get(req, 'current.pips', 0),
+		price: _.get(req, 'current.price', 0),
+		ratio: _.get(req, 'current.ratio', 0),
+		value: _.get(req, 'current.value', 0),
+	}
+
 	this.updateDistance = () => {
 		if (this.status !== Status.Running) {
 			return
@@ -79,17 +88,28 @@ const TrailingStopModel = function (Symbol, req) {
 		this.distance.ratio = this.distance.pips / this.margin.pips
 	}
 
+	this.updateCurrent = () => {
+		if (!this.buy || (this.buy && !this.buy.price)) {
+			return
+		}
+		this.current.price = this.Symbol.roundForSymbol(this.price - this.buy.price)
+		this.current.pips = this.Symbol.pipsFromPrice(this.current.price)
+		this.current.ratio = Number(((this.price / this.buy.price) - 1).toFixed(4))
+		this.current.value = this.Symbol.roundForSymbol(this.quantity * this.current.price)
+	}
+
 	this.updateTotalGain = () => {
 		if (!this.buy || (this.buy && !this.buy.price)) {
 			return
 		}
 		this.totalGain.price = this.Symbol.roundForSymbol(this.stop.last - this.buy.price)
 		this.totalGain.pips = this.Symbol.pipsFromPrice(this.totalGain.price)
-		this.totalGain.ratio = Number(((this.stop.last / this.buy.price) - 1).toFixed(2))
+		this.totalGain.ratio = Number(((this.stop.last / this.buy.price) - 1).toFixed(4))
 	}
 
 	this.updateWithPrice = (price) => {
 		this.price = this.Symbol.roundForSymbol(price)
+		this.updateCurrent()
 		this.updateDistance()
 		this.updateTotalGain()
 	}
@@ -113,7 +133,9 @@ const TrailingStopModel = function (Symbol, req) {
 	}
 
 	this.pause = () => {
-		this.status = Status.Paused
+		if (this.status !== Status.Waiting) {
+			this.status = Status.Paused
+		}
 		this.socket()
 	}
 
@@ -135,11 +157,14 @@ const TrailingStopModel = function (Symbol, req) {
 	}
 
 	this.toJson = () => {
-		let fields = ['id', 'status', 'price', 'start', 'stop', 'margin', 'gain', 'running', 'sellPrice', 'quantity', 'buy', 'totalGain']
+		let fields = ['id', 'status', 'price', 'start', 'stop', 'margin', 'gain', 'running', 'sellPrice', 'quantity', 'buy', 'totalGain', 'current']
 		if (this.status === Status.Running) {
 			fields.push('distance')
 		}
-		return _.assign({Symbol: this.Symbol.toJson(), statusMessage: this.statusMessage()},
+		return _.assign({
+				Symbol: this.Symbol.toJson(),
+				statusMessage: this.statusMessage(),
+			},
 			_.pick(this, fields))
 	}
 
@@ -155,6 +180,8 @@ const TrailingStopModel = function (Symbol, req) {
 		this.margin.ratio = this.margin.price / this.stop.first
 	}
 
+	// Setup methods
+	this.updateCurrent()
 }
 
 exports.TrailingStopModel = TrailingStopModel

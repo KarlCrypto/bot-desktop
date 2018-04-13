@@ -38,11 +38,11 @@
 		</data>
 		<key>Resources/app/bot/README.md</key>
 		<data>
-		iPnFfstQxdbycDqyws+tNca3MvU=
+		efvAVZLMbnPhrSmCChTc45eq3n8=
 		</data>
 		<key>Resources/app/bot/api/api.js</key>
 		<data>
-		jvdHvIyo5U2/UmYD69tEwl9ry8o=
+		9a8hi9la+ZP3ZqIwi6yp2C6jJaA=
 		</data>
 		<key>Resources/app/bot/api/db/data.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Resources/app/bot/api/models/SymbolModel.js</key>
 		<data>
-		iYKYrhgI01UCuX5KJ6/Xdgf2Xu8=
+		VEWCJdvK9CAaEN66GOsvi47yh4Q=
 		</data>
 		<key>Resources/app/bot/api/models/SymbolsModel.js</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Resources/app/bot/api/models/TrailingStopModel.js</key>
 		<data>
-		F+RvWlJbtpY7kZBakTQ7nc1qmxA=
+		0o81+LZmS0RpKSCtri1pRlLeNpc=
 		</data>
 		<key>Resources/app/bot/api/models/TrailingStopsModel.js</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Resources/app/bot/front/app/app.js</key>
 		<data>
-		WGCZegyZJb3ZfRjzzTZ10NgNLjQ=
+		i028MK9l+5qz2ydAbB+junOU5PY=
 		</data>
 		<key>Resources/app/bot/front/app/directives/tradingview.html</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Resources/app/bot/front/app/directives/trailing-stops.html</key>
 		<data>
-		98JAovvbfhtiwaucCLPO2zifHJI=
+		/ALGjU7VpXcMHxjAp6C/82kyLPw=
 		</data>
 		<key>Resources/app/bot/front/app/templates/dashboard.html</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Resources/app/bot/front/app/templates/trailing-stops.html</key>
 		<data>
-		eWQLdvtBxHLsW2mZ3t0ccxpYX84=
+		KZ2iIBajmY5x/FF/8OYVHaySuNY=
 		</data>
 		<key>Resources/app/bot/front/css/bootstrap.min.css</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Resources/app/bot/front/css/dashboard.css</key>
 		<data>
-		bxlOvUPA9a39EjlctUf1500Do4U=
+		52HYETzSU7l89NMh/n8y2pn8Jxw=
 		</data>
 		<key>Resources/app/bot/front/index.html</key>
 		<data>
-		RZSTgK7TzgnXHOQXhhEU+FSPf0A=
+		G81T48m3s8YucFJd8NA3PQMlPUg=
 		</data>
 		<key>Resources/app/bot/front/js/angular-moment.min.js</key>
 		<data>
@@ -26840,7 +26840,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			zrPZ6N0UDNGdEMeuNMfoEilES/A=
+			uzPHAmKPfd9BKd1cpH4wNYrp+28=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = PN4VY6TUWD</string>
@@ -26980,22 +26980,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iPnFfstQxdbycDqyws+tNca3MvU=
+			efvAVZLMbnPhrSmCChTc45eq3n8=
 			</data>
 			<key>hash2</key>
 			<data>
-			FdajoJylqXqBKqv2M0EZiA4V/lbGWGb5DJLJbG3lNTI=
+			JguxZWfrDeEPXPyr9vmB8vs/xzaJY+5w00UKn+4ey64=
 			</data>
 		</dict>
 		<key>Resources/app/bot/api/api.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jvdHvIyo5U2/UmYD69tEwl9ry8o=
+			9a8hi9la+ZP3ZqIwi6yp2C6jJaA=
 			</data>
 			<key>hash2</key>
 			<data>
-			9S+hhh8Zi3NwLlsfC4sso+MYKTMGJkuzeelf5a4/OjU=
+			LDyCtXHQD1ev7eB6UZn9+gWUUHatdKtBlM+sraLNu0o=
 			</data>
 		</dict>
 		<key>Resources/app/bot/api/db/data.json</key>
@@ -27024,11 +27024,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iYKYrhgI01UCuX5KJ6/Xdgf2Xu8=
+			VEWCJdvK9CAaEN66GOsvi47yh4Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			tKV7qQGQAfjtggGILGuDrqlFYIWSPYUnFdj2LL8+/9c=
+			0/SymIY2B04GzXcrXkbA6utjBrlnW+0cQzo9bl/bmS4=
 			</data>
 		</dict>
 		<key>Resources/app/bot/api/models/SymbolsModel.js</key>
@@ -27046,11 +27046,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F+RvWlJbtpY7kZBakTQ7nc1qmxA=
+			0o81+LZmS0RpKSCtri1pRlLeNpc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZPEBbD2sIBFVxSVZJjtGAbIF6A1vmLvmOYJVA+Yi12w=
+			bujsWyHJ1/0AwJ3apQFsVim3jc3MeSitetbn2ySU3lU=
 			</data>
 		</dict>
 		<key>Resources/app/bot/api/models/TrailingStopsModel.js</key>
@@ -27079,11 +27079,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WGCZegyZJb3ZfRjzzTZ10NgNLjQ=
+			i028MK9l+5qz2ydAbB+junOU5PY=
 			</data>
 			<key>hash2</key>
 			<data>
-			zKr2kOZhXjnp5bQ7w1BGuTvvzpoAiGuDUS2LClYDRa0=
+			b+7ClZk1JjiDzoZJnThce2De4GnsoEcTnXJTaFmnslg=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/app/directives/tradingview.html</key>
@@ -27101,11 +27101,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			98JAovvbfhtiwaucCLPO2zifHJI=
+			/ALGjU7VpXcMHxjAp6C/82kyLPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			fffjIJ8vbN+13SKdeuvapMKWLZxF9GbTFUyaEli2bKU=
+			ddEhIfzoLL4D0fi1EjInre3XBKzQfhIeYL/vOlZpuj8=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/app/templates/dashboard.html</key>
@@ -27156,11 +27156,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eWQLdvtBxHLsW2mZ3t0ccxpYX84=
+			KZ2iIBajmY5x/FF/8OYVHaySuNY=
 			</data>
 			<key>hash2</key>
 			<data>
-			9ZyO1c/75FX2KTUkNnY1Nqk4DwmRf+WP0axccNgT6/U=
+			G8PXNyNDddH4MbOB5FnGHlRAAY8XlUrvI/Z7DrtyiGE=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/css/bootstrap.min.css</key>
@@ -27178,22 +27178,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bxlOvUPA9a39EjlctUf1500Do4U=
+			52HYETzSU7l89NMh/n8y2pn8Jxw=
 			</data>
 			<key>hash2</key>
 			<data>
-			IkE7ZfC0TdOLOIhG2MvWP6EwFPLn8ddQn4EeBo2OI98=
+			t08WWxueJCuQGVHGyK8iav5JOekqgM8nRMftxB2sQK8=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/index.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RZSTgK7TzgnXHOQXhhEU+FSPf0A=
+			G81T48m3s8YucFJd8NA3PQMlPUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			/IiYnUk/gBJIZ5GFfI363H6rxPckS1sxvWphcVPQn4g=
+			AFdvb97beoLSj9AstlAfR4dgiTo3QrCYh50SI2RdigQ=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/js/angular-moment.min.js</key>

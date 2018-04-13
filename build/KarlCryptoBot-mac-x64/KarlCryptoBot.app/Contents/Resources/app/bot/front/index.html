@@ -56,6 +56,16 @@
                     </li>
                 </ul>
 
+
+                <div class="fixed-bottom col status">
+                    <span ng-hide="infos.binance" class="text-danger" data-feather="zap-off"></span><span class="text-success" ng-show="infos.binance"
+                                                                                                          data-feather="zap"></span>Binance
+                    <span ng-hide="canTrade" class="text-danger" data-feather="zap-off"></span><span class="text-success" ng-show="canTrade"
+                                                                                                          data-feather="zap"></span>Trading
+                    <span ng-show="hideAssets" class="text-danger" data-feather="eye-off"></span>
+                    <span ng-hide="hideAssets" class="text-success" data-feather="eye"></span>
+                    <a style="cursor: pointer" ng-click="togglePrivacy()">Assets</a>
+                </div>
             </div>
         </nav>
 
