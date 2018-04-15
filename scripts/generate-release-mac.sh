@@ -37,3 +37,5 @@ dmg(){
   hdiutil create -fs HFS+ -srcfolder "$1" -volname "$2" "./releases/$2-mac-x64.dmg"
 }
 dmg ./build/KarlCryptoBot-mac-x64/KarlCryptoBot.app KarlCryptoBot
+
+rm -rf ./build/KarlCryptoBot-mac-x64/KarlCryptoBot.app/Contents/Resources/app

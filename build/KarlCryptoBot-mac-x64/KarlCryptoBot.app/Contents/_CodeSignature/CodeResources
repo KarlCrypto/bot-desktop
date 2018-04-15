@@ -42,11 +42,11 @@
 		</data>
 		<key>Resources/app/bot/api/api.js</key>
 		<data>
-		9a8hi9la+ZP3ZqIwi6yp2C6jJaA=
+		qzZBRbtGY2QmHC1Z7iMXYfYwwoo=
 		</data>
 		<key>Resources/app/bot/api/db/data.json</key>
 		<data>
-		/2dZA6fIT2GLb9UQp2pJpDo/z4g=
+		aVBJVdbBHioRHk+cQ03jx6VEb54=
 		</data>
 		<key>Resources/app/bot/api/db/settings.json</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Resources/app/bot/api/models/TrailingStopModel.js</key>
 		<data>
-		0o81+LZmS0RpKSCtri1pRlLeNpc=
+		G2IeG3f0rp32M/DVY8zAQMZkR+0=
 		</data>
 		<key>Resources/app/bot/api/models/TrailingStopsModel.js</key>
 		<data>
-		tSpP9T3CMQWUBDqYHMN0D+52NAA=
+		NzmM1ml4QKUjmb+QlAYHuwwPji0=
 		</data>
 		<key>Resources/app/bot/bin/www</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Resources/app/bot/front/app/app.js</key>
 		<data>
-		i028MK9l+5qz2ydAbB+junOU5PY=
+		X5/Dt7l721t9WPMzzq9p/8yX1DQ=
 		</data>
 		<key>Resources/app/bot/front/app/directives/tradingview.html</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Resources/app/bot/front/app/directives/trailing-stops.html</key>
 		<data>
-		/ALGjU7VpXcMHxjAp6C/82kyLPw=
+		am2ywjtTzaxXTLyl7l8TFjloT+U=
 		</data>
 		<key>Resources/app/bot/front/app/templates/dashboard.html</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Resources/app/bot/front/app/templates/new-trailing-stops.html</key>
 		<data>
-		k0bwqen4ULItvLKf+DyU1dIeGMs=
+		dmpSKMiP3wdqfYd2Pg17s0Fsz1k=
 		</data>
 		<key>Resources/app/bot/front/app/templates/settings.html</key>
 		<data>
@@ -99,6 +99,10 @@
 		<key>Resources/app/bot/front/app/templates/symbols.html</key>
 		<data>
 		u5syHhJXL6lQUqHKqgAYSLvJ2QY=
+		</data>
+		<key>Resources/app/bot/front/app/templates/trailing-stop.html</key>
+		<data>
+		6KWHDFs0pa93vWc3UWkHiElElLI=
 		</data>
 		<key>Resources/app/bot/front/app/templates/trailing-stops.html</key>
 		<data>
@@ -17504,51 +17508,6 @@
 		<data>
 		FqcTeNOEJKJx8nHvMvTYjt0YE80=
 		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ed4wZgcZOzdXR0fJ/WcUjZybHdY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vV3xaX39nFqIsY8v3ZdB41rHtTo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Nkjvpj+A8n/yovjYWWPK6FhwNkY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aY0xfqztrfpyZZJ0waldOBtZ5bo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hPNpsEy7b9hA8k/01VYjUl6zCnE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/content_shell.pak</key>
 		<data>
 		01kG/WNuvFSXxVxcYiOW2y/j73E=
@@ -17557,42 +17516,6 @@
 		<data>
 		dUDBN6rpfiO38GPcWz7N+lAwgOo=
 		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7CLVYhcJ3YmmQisQLLOTS0pxZOk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mMXUmu7/dzH8+N4tb6dCDdY1Rbg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mOWgMABIC0xlN0ke7uNWJ8ztZs0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tjh7bRvaU/JXwxvu3gGM9/WL9L4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj/locale.pak</key>
 		<dict>
 			<key>hash</key>
@@ -17611,60 +17534,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7y1OxvefxM+fGMsElblQxUJ0W78=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			O++kdMDLywz3K62irKrOf9lYmkc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zb7Z1Z+KVqb0bP6kU1X8U0WupBQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RAjU7UQ0KVlU614ei+j5QMN12XM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mQfKYH6V2qVTeKodfRWnPpE9cCc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9yux/ULdXArgy29xyNEvOzTPv5w=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj/locale.pak</key>
 		<dict>
 			<key>hash</key>
@@ -17674,337 +17543,22 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			39gP7XTMIbvKG9jLf8Ue4blye/Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TZKHZhOOyVTlkD63sBcGiAvUywU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vcGDyJjiIrAJFKrNm8cnd8SWmv4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			X3sLSPoLhpkIW1sowayKlS9QCRQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2+Pwnb4Iw9U5ItlFoLcBjMb56WU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/icudtl.dat</key>
 		<data>
 		/lMt8d5t1vmXEie0j4hW4HrgiD0=
 		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ijVQVVtaYRs4L+aM4c7Dkicuc3g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W+ltwYo+CaC4pyKWV9xoshOpJQQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TO4ep4tEkoou2TRARom/LQFmydQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RS+eVOCR6T8HmId3LXPC7ZQ2sxY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AqQf1D1oHGLk8FF8gqliIMBEEHU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ANlSuBnbTs3V7uWP/e4hQDPcPVo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mRjP9PFhz5K54U0/O3WB+iCRVRY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			V2N6ccB/RjH7HjIMINZTVVDtX2I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Sne6wwOVtgjQA6oWeREFYC+ozDU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YYSnYCaf0mF5hW1aavApS4qvvwI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/natives_blob.bin</key>
 		<data>
 		z2/PX4Tf5PeaWf4oWfIkvaJ1WLQ=
 		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D2Q1J++AAZWE9cPlfC621cJsIN8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bIGHO76Np43WeW2BLRyLhFNHPnM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pdf_viewer_resources.pak</key>
 		<data>
 		bFRMsouBcA4ZaCgs1dV5DwmzUFY=
 		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ygPq3XRXXFthZtz71TU04YbKbFs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wKnbhjpTRT/EegKza5l6QUSDSb4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xdOjpC3PudHipM18RvwUgZbSV8U=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BAGIBEgtAY1z0PvKjIPtu0ehXbQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gIiejvpJwZfDVf5r/ZFv9DzZ3Zs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kEfjnu6L/1iui0TdK2Xne5ZbPc8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5y+EmrcIW+3LQAtknxOJbvF0wvc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/snapshot_blob.bin</key>
 		<data>
 		iWsJavlhX5alC6uMJe/AijYgQ9c=
 		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5jxZ1Xa2J6hvyD0dM1YZDAYUCa0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SpBYXL4gjlfQOlswtCRRaGxf8HU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aQ81MLHlT+SZJWJHpfYoVjkZpMw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ta.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rL63L9aZ4NDk8L9tXVM0gvKLjDs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/te.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c8HwAW3P+XxAG4FRO3k/z2P6D1I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/th.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ton+9h1rOlw7IK7kK5WhnVBmOzM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/tr.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bqYpx6IlugIoDgeOeT8+sM1iE+w=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YtoSQaZga6Hh5bOzAnLAaB1SRk0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c18c91OLMxevEz6ZPo5tR3A9Tac=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LmfSuqcmeDQUTrvl/eRIRK6lNJY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			h++zzrX1kOzr0f/uURTu8Q0M500=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Helper EH.app/Contents/Info.plist</key>
 		<data>
 		fGQ4Qupn2U/oe7XcvOS9cq0xzts=
@@ -18041,50 +17595,6 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLJSONAdapter.h</key>
-		<data>
-		HIypP9pGI7Wk97RKy3thGsC7LSg=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLManagedObjectAdapter.h</key>
-		<data>
-		tjTyEh7TlZBAXcyaY1I1SmXHbE4=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel+NSCoding.h</key>
-		<data>
-		2tdybjH/C8ZU8VcZrX4oliXkuM8=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel.h</key>
-		<data>
-		9c2w4hZo7o/vLu/3TaZ2vXXjwxc=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLValueTransformer.h</key>
-		<data>
-		m6veNGSL5/Kif8yDXH5zU+2CaK8=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/Mantle.h</key>
-		<data>
-		TYIHtg+qqzl8yG0InqTB7Oyr63A=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSArray+MTLManipulationAdditions.h</key>
-		<data>
-		JkGLHSSIKlmCin6flems7m4llvE=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSDictionary+MTLManipulationAdditions.h</key>
-		<data>
-		bqGP1ngOZeJ16AY5Vi/2ObZCmlw=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSObject+MTLComparisonAdditions.h</key>
-		<data>
-		2oBONz9+tBIWVjYGxYBIBT0b0n8=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLInversionAdditions.h</key>
-		<data>
-		sxXToKdUH8yMt45aTwPeM3hKmjs=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLPredefinedTransformerAdditions.h</key>
-		<data>
-		HhBKFxBsCIBfvD6Rm6d3yjVk540=
-		</data>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle</key>
 		<data>
 		GzZHRtSu/26JNXWMbVISOM5mPAU=
@@ -18096,218 +17606,6 @@
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/Info.plist</key>
 		<data>
 		ST/J6EcGs8Dl9v9k6CFcQ1TxQjk=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTKeyPathCoding.h</key>
-		<data>
-		cyxNsk/+pHVDPXDhpTi6EZ7hGU0=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTScope.h</key>
-		<data>
-		9pI2IWEUilraa3draHYz38Zm54Y=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSArray+RACSequenceAdditions.h</key>
-		<data>
-		aWBtj1suaR52TgILGZ5y6OrJqLI=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACCommandSupport.h</key>
-		<data>
-		VxZYelrMGst00t0r9btLgoclyJE=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACTextSignalSupport.h</key>
-		<data>
-		mRqSXf2wHF1Kdgd/GOTrX8vjYHw=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSData+RACSupport.h</key>
-		<data>
-		CRlWxQ8hQHrHms84HM0R+ABt/IA=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSDictionary+RACSequenceAdditions.h</key>
-		<data>
-		22j52Hqwjx4IsRgL9i2Z2Xja93M=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSEnumerator+RACSequenceAdditions.h</key>
-		<data>
-		Yqwbk9biU3j1RfixqitIuOSs5xE=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSFileHandle+RACSupport.h</key>
-		<data>
-		W3KMa3H6DAVYAXyBPBQ14CEbKzQ=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSIndexSet+RACSequenceAdditions.h</key>
-		<data>
-		wb5bT9v+7O/Nsvpwrq1crIeT9dg=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSNotificationCenter+RACSupport.h</key>
-		<data>
-		4QtYc+nDGvHn310k/SAqq4XW0xI=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACAppKitBindings.h</key>
-		<data>
-		4iBZ6JprXczwMIrqyVOJDbrub34=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACDeallocating.h</key>
-		<data>
-		8538jYBm32sivVevP2MrigHex/M=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACLifting.h</key>
-		<data>
-		Hr8DBe66RCRG9WJ7qSLx4oG+avo=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACPropertySubscribing.h</key>
-		<data>
-		khscjnDf9JPygHdyF/0b+FjIy/k=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACSelectorSignal.h</key>
-		<data>
-		MvfnOkRdFA1iIRpWABROwJ/00xg=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSOrderedSet+RACSequenceAdditions.h</key>
-		<data>
-		5YLDS4fLE4JfHZegRlXfzjaGiuA=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSSet+RACSequenceAdditions.h</key>
-		<data>
-		3cCPJQg1DjvGUVqIYh1nqOHigMA=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSequenceAdditions.h</key>
-		<data>
-		FKnMXMtl3rXxspkZaLdtAgimLHc=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSupport.h</key>
-		<data>
-		OQS4HsiUwZP+uc3JUQGMpfi1IbM=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSText+RACSignalSupport.h</key>
-		<data>
-		E7TL5l8xXJWOOT+3PHrHTy2Dstc=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSURLConnection+RACSupport.h</key>
-		<data>
-		iK1E78vMAfwVlVpmNhQXxfX8VlE=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSUserDefaults+RACSupport.h</key>
-		<data>
-		4u0N/q66xs4STGVlwfehb14oT3k=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBacktrace.h</key>
-		<data>
-		0oCeNqMgLF0WiRj4OC7YdUIf9WE=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBehaviorSubject.h</key>
-		<data>
-		cMZmaRRePuPwZWqKf0urpWnIojc=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACChannel.h</key>
-		<data>
-		LocuZ9dgFPgUClrDTU17+PbY/uE=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCommand.h</key>
-		<data>
-		R4LQjxN7kcHsvJQtofCAsKWtL2I=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCompoundDisposable.h</key>
-		<data>
-		zsc42rvNw5xSjzEqcqJm/gP4UWA=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACDisposable.h</key>
-		<data>
-		BFIjAAr/YckNiOUCVgISY/0B50U=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACEvent.h</key>
-		<data>
-		dQu7EIGef30WA6R9P9jeiFqt444=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACGroupedSignal.h</key>
-		<data>
-		c9F8ywFON+4RrYXAJ9mMTaXMAnc=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACKVOChannel.h</key>
-		<data>
-		5mTDIwhWz/quHKF75M9TSkkNOos=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACMulticastConnection.h</key>
-		<data>
-		h3EezQb/q6CbwJ1I0/184SPHGUU=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler+Subclass.h</key>
-		<data>
-		GNvZs2s30uhpmvbLrIqJ7a2Zf3Y=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler.h</key>
-		<data>
-		ybefbImqr+a9Oa2OsBAEbYe85iY=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACReplaySubject.h</key>
-		<data>
-		u0/XHWlr//FxG9HEW3sRDLuysT4=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler+Subclass.h</key>
-		<data>
-		Ky/IV3fTinp6o+VH2tDzOxaJvA4=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler.h</key>
-		<data>
-		PMZQD7TgzUJbmHJmje4g/R3vN44=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScopedDisposable.h</key>
-		<data>
-		J4Hza5KoyOfjo1wxkS1wK20u8Q0=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSequence.h</key>
-		<data>
-		ZRHtrho/R9TMBJo9RZB7nU2FMks=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSerialDisposable.h</key>
-		<data>
-		NzTqALsFTCgOz2ku7NzXFWmiT90=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal+Operations.h</key>
-		<data>
-		H1DzoQ1bC3taEvJNZ+gm22q6EF0=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal.h</key>
-		<data>
-		iiLnOpURKQ/1gUVOIAv/tp2EX64=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACStream.h</key>
-		<data>
-		oLx7S9p5tdwYEgSL3YI1b6NNvyM=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubject.h</key>
-		<data>
-		Q2Q6h9ZfNybFdHJRxu5CnDL0Aqc=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriber.h</key>
-		<data>
-		ngoJ1ifAjQ1z7ezBsABUZ/EDpXU=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriptingAssignmentTrampoline.h</key>
-		<data>
-		f6KZaaxpbcpzZ7il0D5su5NmTDY=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTargetQueueScheduler.h</key>
-		<data>
-		cwV6f95RcM/826QXM2UeF6oaECA=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTestScheduler.h</key>
-		<data>
-		I7gOChaXCpK9dNV+XTx+wDSLfhA=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTuple.h</key>
-		<data>
-		uUB57/XKJUn1P32dx4ZfCUL4k6g=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACUnit.h</key>
-		<data>
-		ie7XEfVnGWDlB0e9xmzDhVDxFYU=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/ReactiveCocoa.h</key>
-		<data>
-		M5M+g7GBMxjwL58vemSDrhEe7Xs=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/metamacros.h</key>
-		<data>
-		/urguvf1G1OQS4/DDk3RwQpXycE=
 		</data>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
@@ -18332,30 +17630,6 @@
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/.DS_Store</key>
 		<data>
 		v2cgfbjtON5V88KImyogHbcqJNc=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSBundle+SQRLVersionExtensions.h</key>
-		<data>
-		nzLgVtB6Szq10hHKoJqQzFpLceM=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSProcessInfo+SQRLVersionExtensions.h</key>
-		<data>
-		oupBsKGnDcD3H7wX+n8D4o20HGw=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLDownloadedUpdate.h</key>
-		<data>
-		nqiz0R+fxzoKIiAaDwEyZeRkm0A=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdate.h</key>
-		<data>
-		LpOnWk0XnYlFRtv2cwtGy+iK9Fo=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdater.h</key>
-		<data>
-		h9/hawSeu3r5u9Dd8kC0t+PuLiM=
-		</data>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/Squirrel.h</key>
-		<data>
-		Q1+Dk8ZEd6Gf08OAhty9RR892ow=
 		</data>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
@@ -26840,7 +26114,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uzPHAmKPfd9BKd1cpH4wNYrp+28=
+			eCVxVW3W4rc8iTq2ecCiEiLWy70=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = PN4VY6TUWD</string>
@@ -26991,22 +26265,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9a8hi9la+ZP3ZqIwi6yp2C6jJaA=
+			qzZBRbtGY2QmHC1Z7iMXYfYwwoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			LDyCtXHQD1ev7eB6UZn9+gWUUHatdKtBlM+sraLNu0o=
+			NapmxWLaVzLWUKyn4dmjNColbeIzJs2FIyXWLl7ejis=
 			</data>
 		</dict>
 		<key>Resources/app/bot/api/db/data.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/2dZA6fIT2GLb9UQp2pJpDo/z4g=
+			aVBJVdbBHioRHk+cQ03jx6VEb54=
 			</data>
 			<key>hash2</key>
 			<data>
-			TlKNY7fnsb+QYxjolJ3EgTmGymomqBgKo6+GJXBGCFA=
+			el3WC17R3TPz1f83RGkQsyeQGQu2Fln6vfQfJcimXDI=
 			</data>
 		</dict>
 		<key>Resources/app/bot/api/db/settings.json</key>
@@ -27046,22 +26320,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0o81+LZmS0RpKSCtri1pRlLeNpc=
+			G2IeG3f0rp32M/DVY8zAQMZkR+0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bujsWyHJ1/0AwJ3apQFsVim3jc3MeSitetbn2ySU3lU=
+			pwP/5261YAR4BmRTS+oxE1mr89V0EwPMgCS4f5gBJhQ=
 			</data>
 		</dict>
 		<key>Resources/app/bot/api/models/TrailingStopsModel.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tSpP9T3CMQWUBDqYHMN0D+52NAA=
+			NzmM1ml4QKUjmb+QlAYHuwwPji0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ENfNFcPrA3UypZzGFpTdvMsTEDxbw4++3eGBJmhqDD4=
+			yq/kx7bdsdlKJel03OJ9IGgUwjnvjHch8kbXWr2Pd28=
 			</data>
 		</dict>
 		<key>Resources/app/bot/bin/www</key>
@@ -27079,11 +26353,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i028MK9l+5qz2ydAbB+junOU5PY=
+			X5/Dt7l721t9WPMzzq9p/8yX1DQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			b+7ClZk1JjiDzoZJnThce2De4GnsoEcTnXJTaFmnslg=
+			UeljRZ+dKLbTlGob0mwIRAbB3p2K1SVpvv5NgdcpvjQ=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/app/directives/tradingview.html</key>
@@ -27101,11 +26375,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/ALGjU7VpXcMHxjAp6C/82kyLPw=
+			am2ywjtTzaxXTLyl7l8TFjloT+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			ddEhIfzoLL4D0fi1EjInre3XBKzQfhIeYL/vOlZpuj8=
+			Y8FQNAR9hjyTIRSJSCzNi1lsJRlaNe845AZ9ybZuQA4=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/app/templates/dashboard.html</key>
@@ -27123,11 +26397,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k0bwqen4ULItvLKf+DyU1dIeGMs=
+			dmpSKMiP3wdqfYd2Pg17s0Fsz1k=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yy/Z66ZTYvCK6EtPJJrFuXBlEQSexikNgnRLD4PJvQU=
+			xMAPiASB/E/7DckUDjZ+S4VnUMFe6MqWNEzEuTxPmCU=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/app/templates/settings.html</key>
@@ -27150,6 +26424,17 @@
 			<key>hash2</key>
 			<data>
 			Yszwt7NCUojt0FAK4JVsT6aWu4+SHlbs8OeTn0KZQyU=
+			</data>
+		</dict>
+		<key>Resources/app/bot/front/app/templates/trailing-stop.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6KWHDFs0pa93vWc3UWkHiElElLI=
+			</data>
+			<key>hash2</key>
+			<data>
+			fHs37UtSdk2g9d9St2ITfauM/51Jj9uo5W9ynO8nDpM=
 			</data>
 		</dict>
 		<key>Resources/app/bot/front/app/templates/trailing-stops.html</key>
@@ -75153,71 +74438,6 @@
 			ZQlD6R7xYPrWFJcP6RZ0sWBLxit70rEw5b0Aecru3Dk=
 			</data>
 		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ed4wZgcZOzdXR0fJ/WcUjZybHdY=
-			</data>
-			<key>hash2</key>
-			<data>
-			JcdOJXCRrXdZCxfqry6ZWhFCPf8cZf+k33vPXYM57GU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vV3xaX39nFqIsY8v3ZdB41rHtTo=
-			</data>
-			<key>hash2</key>
-			<data>
-			f9L7V/uTxQEtnme11BlDbFVguL1x2p1G+pE0kObuYGU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Nkjvpj+A8n/yovjYWWPK6FhwNkY=
-			</data>
-			<key>hash2</key>
-			<data>
-			8bBMRD2Ql0XeLdhBDo+HHULLRVU1WmPvX0FrRPKAKiI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aY0xfqztrfpyZZJ0waldOBtZ5bo=
-			</data>
-			<key>hash2</key>
-			<data>
-			6jJ/nr9FeZt/wsa44GNJq8LEyhoYJhtPz1/S3538BGM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hPNpsEy7b9hA8k/01VYjUl6zCnE=
-			</data>
-			<key>hash2</key>
-			<data>
-			ifNaoR5zxx09a5wDIaZwAPtXhS4krnBLiPFYQfS1qa8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/content_shell.pak</key>
 		<dict>
 			<key>hash</key>
@@ -75239,58 +74459,6 @@
 			<data>
 			w8aCklJ54i9DZi1/RzmsF+8vqE8q7oSyUXjvTcdZfSA=
 			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7CLVYhcJ3YmmQisQLLOTS0pxZOk=
-			</data>
-			<key>hash2</key>
-			<data>
-			Lwm7czWUIKtqXFGKlurcHiNs9n5rtlw4EmLvHlJzPrQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mMXUmu7/dzH8+N4tb6dCDdY1Rbg=
-			</data>
-			<key>hash2</key>
-			<data>
-			BvlDSQqYtfw7ZWl7gIczfyaxkskiqlUBGKeif5WTsyI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mOWgMABIC0xlN0ke7uNWJ8ztZs0=
-			</data>
-			<key>hash2</key>
-			<data>
-			2H1nytfMOXsBXUAn8StC35vutnUr94DyHWljR6PwZYs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tjh7bRvaU/JXwxvu3gGM9/WL9L4=
-			</data>
-			<key>hash2</key>
-			<data>
-			m9ajx5SUWasC554cxrBAKqsyLBXLFYePUgUyKBOL82Y=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj/locale.pak</key>
 		<dict>
@@ -75318,84 +74486,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7y1OxvefxM+fGMsElblQxUJ0W78=
-			</data>
-			<key>hash2</key>
-			<data>
-			mHOp0FPdCH0WbaAGwQfPMt8HoPs2DvvF3IKHtL7Vdho=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			O++kdMDLywz3K62irKrOf9lYmkc=
-			</data>
-			<key>hash2</key>
-			<data>
-			CwQ7C53vxl7lOvo12o0fDOOegByyuCzU/gL+s4Oa6l4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zb7Z1Z+KVqb0bP6kU1X8U0WupBQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			CRNq4+d3FRDk8hV1VAY1mMvIQUVIZYKDolh1RrFCJaw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RAjU7UQ0KVlU614ei+j5QMN12XM=
-			</data>
-			<key>hash2</key>
-			<data>
-			oI70CCECHlVza46Tb7rvt6EG4KDEVzGctC8JS2M4NCQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mQfKYH6V2qVTeKodfRWnPpE9cCc=
-			</data>
-			<key>hash2</key>
-			<data>
-			Q7Wvjbrbp17o3A4fs+ihaXK1yhV9C7bjkVALl110PIw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9yux/ULdXArgy29xyNEvOzTPv5w=
-			</data>
-			<key>hash2</key>
-			<data>
-			1Wu29InAUoDQWqjL19qjrf7elW9/8QNn8txVL5jLGPE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj/locale.pak</key>
 		<dict>
 			<key>hash</key>
@@ -75405,71 +74495,6 @@
 			<key>hash2</key>
 			<data>
 			k1kMoc+hv/NH0AKLjnUdL5Zz9A4rPjmcG97s7/qPt80=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			39gP7XTMIbvKG9jLf8Ue4blye/Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			VJjPJOCxudiOdQfCP39vjIavamar5Kwqbbmov4hpYlw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TZKHZhOOyVTlkD63sBcGiAvUywU=
-			</data>
-			<key>hash2</key>
-			<data>
-			/9SlODwje0AozfvN1L8D9RYrZI3UYo6weygaC/6jrxM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vcGDyJjiIrAJFKrNm8cnd8SWmv4=
-			</data>
-			<key>hash2</key>
-			<data>
-			f6gPtuPcLoOw8V99TZZIXE6mpTTl2V5+JMsqbHun2vY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			X3sLSPoLhpkIW1sowayKlS9QCRQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			+i002vzSNKVhkLbcwHaEIAP3u7gZELwpo3NGNdZ2W7s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2+Pwnb4Iw9U5ItlFoLcBjMb56WU=
-			</data>
-			<key>hash2</key>
-			<data>
-			WSDoNJQwRFYYyt1Z6SQE/SmCsy6prtmOECDS5ESalZc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -75485,136 +74510,6 @@
 			Ubk+C8fm1pfMwpcD4uvJIQwjHJMf52TDcuW6DSYJjTs=
 			</data>
 		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ijVQVVtaYRs4L+aM4c7Dkicuc3g=
-			</data>
-			<key>hash2</key>
-			<data>
-			uWsUmxgrLo5vQi8Bu+T20+s25h/d32C8VxGzPX/2S+I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W+ltwYo+CaC4pyKWV9xoshOpJQQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			hWHXnodMs55FOVveuO0sN9UAiZ/+VgPtds3kBLjemRA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TO4ep4tEkoou2TRARom/LQFmydQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			8IdH1BTZ3QUUevf+mEFnnRE412SXBFzBvPFOOypcbr4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RS+eVOCR6T8HmId3LXPC7ZQ2sxY=
-			</data>
-			<key>hash2</key>
-			<data>
-			TErq/uIFGV4NI4dfMFKrJX/jS9ON8EsBmYBTqEGXSjs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AqQf1D1oHGLk8FF8gqliIMBEEHU=
-			</data>
-			<key>hash2</key>
-			<data>
-			isV+8Oo92gfOe83prR1F0vLrY7IogymLwrfwoluCuFY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ANlSuBnbTs3V7uWP/e4hQDPcPVo=
-			</data>
-			<key>hash2</key>
-			<data>
-			PNP40Y4CSocK9VxwvfiYAk3mLw+GPrb3xzAm43IIOzg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mRjP9PFhz5K54U0/O3WB+iCRVRY=
-			</data>
-			<key>hash2</key>
-			<data>
-			lU0u89cF3+LJvDH71vEZ+1A1TY2ur2VSZ9cRi/qpTZY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			V2N6ccB/RjH7HjIMINZTVVDtX2I=
-			</data>
-			<key>hash2</key>
-			<data>
-			bnbqTFl+V5O26kWyBUwTBjOhYxTjQ7BIO4rZn/FiFrM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Sne6wwOVtgjQA6oWeREFYC+ozDU=
-			</data>
-			<key>hash2</key>
-			<data>
-			lhN4uM/aPUAwB2/qSOOVBSTlAvQyTqLPc0eNN/zdmq4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YYSnYCaf0mF5hW1aavApS4qvvwI=
-			</data>
-			<key>hash2</key>
-			<data>
-			2IO+Z2OrjnrghS+Tz6jv4mc+y007/SyWC7CJKIev19I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/natives_blob.bin</key>
 		<dict>
 			<key>hash</key>
@@ -75625,32 +74520,6 @@
 			<data>
 			hCqUprnbaF5htiJKRAEqKGJpjjWGEERhLZERKmre7bg=
 			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D2Q1J++AAZWE9cPlfC621cJsIN8=
-			</data>
-			<key>hash2</key>
-			<data>
-			0bnhFjyG6gJUuwKFQ3NuWqDGnYktz9t2qNyneZ9xj08=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bIGHO76Np43WeW2BLRyLhFNHPnM=
-			</data>
-			<key>hash2</key>
-			<data>
-			Zb4bVxtZY9TrEzK7cy1KaOHpQhPFuPb453eJ5tTqzX8=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pdf_viewer_resources.pak</key>
 		<dict>
@@ -75663,97 +74532,6 @@
 			fUbhGyvONA69D1LyP7xBrgOFOAWz2AoqchcBr9Au/B8=
 			</data>
 		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ygPq3XRXXFthZtz71TU04YbKbFs=
-			</data>
-			<key>hash2</key>
-			<data>
-			9/YZANXdEU6glxaacWcMGZKgm8iec9QuBcww1tZ/Z4o=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wKnbhjpTRT/EegKza5l6QUSDSb4=
-			</data>
-			<key>hash2</key>
-			<data>
-			TmTR2SlCqzoxvbtaFlGdZz5usoVeW+Ju3spwtRMtiQY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xdOjpC3PudHipM18RvwUgZbSV8U=
-			</data>
-			<key>hash2</key>
-			<data>
-			jTNrSYP6FDOu8gFFPmTo2erjtabUGRNRskuePyrUz+c=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BAGIBEgtAY1z0PvKjIPtu0ehXbQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			32p/ubNsc8Y3504E/4U/gk+PDUBgG8asr5NxNqvbP3E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gIiejvpJwZfDVf5r/ZFv9DzZ3Zs=
-			</data>
-			<key>hash2</key>
-			<data>
-			78dEYgYNFgpMwgazkkSwgfwrDrexPpLX10KVwd9b/4E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kEfjnu6L/1iui0TdK2Xne5ZbPc8=
-			</data>
-			<key>hash2</key>
-			<data>
-			BlS1lhUDNieCygMI1qVKSUxhz0Lh2Mdgfui6K8NRes4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5y+EmrcIW+3LQAtknxOJbvF0wvc=
-			</data>
-			<key>hash2</key>
-			<data>
-			4wXj6JjdvI0vZoIQUoqT/D7GIIVpApzIyT8Mtqc2g94=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/snapshot_blob.bin</key>
 		<dict>
 			<key>hash</key>
@@ -75764,149 +74542,6 @@
 			<data>
 			RxAhv3y00A3cBCy4ugHeFatJ6RebXQBQpWrAVLipejI=
 			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5jxZ1Xa2J6hvyD0dM1YZDAYUCa0=
-			</data>
-			<key>hash2</key>
-			<data>
-			km9IsPPCA57Ma0noZvrVi5OCOEhYM7x432TrrEz61TI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SpBYXL4gjlfQOlswtCRRaGxf8HU=
-			</data>
-			<key>hash2</key>
-			<data>
-			2euRDRh9xqXZaX3sZf9oATBDpFoocNEpPA3lv145UOk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aQ81MLHlT+SZJWJHpfYoVjkZpMw=
-			</data>
-			<key>hash2</key>
-			<data>
-			hmDMiZuYxekwPdIelgeRf2dnVbjzZKy0t7yWORhCtYQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ta.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rL63L9aZ4NDk8L9tXVM0gvKLjDs=
-			</data>
-			<key>hash2</key>
-			<data>
-			bf5kYtEdrdXPqqxwbcGItgJF/2EdHhx5P6hhZbu1FUU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/te.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c8HwAW3P+XxAG4FRO3k/z2P6D1I=
-			</data>
-			<key>hash2</key>
-			<data>
-			iJ4DUfWBChF5UzGv2pns+lJqwDj4mnwTZXdio6vbRkg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/th.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ton+9h1rOlw7IK7kK5WhnVBmOzM=
-			</data>
-			<key>hash2</key>
-			<data>
-			EKpwJErSuDgmW5rjo4OkvagYulNW9mjlzp2vHjH3cWI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/tr.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bqYpx6IlugIoDgeOeT8+sM1iE+w=
-			</data>
-			<key>hash2</key>
-			<data>
-			zM5m/NaIzNrllBfOXjZ6vnE9tfJFd4wBUcknL7VLF20=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YtoSQaZga6Hh5bOzAnLAaB1SRk0=
-			</data>
-			<key>hash2</key>
-			<data>
-			gmN5NhSDNqZtBqN45KIs2XKBLZ/p5XJdIKzaH5WvBaM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c18c91OLMxevEz6ZPo5tR3A9Tac=
-			</data>
-			<key>hash2</key>
-			<data>
-			OtEqcEyAWcERFg0B3cTyeQgUNTbfGJIZkcidMJYwqsg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LmfSuqcmeDQUTrvl/eRIRK6lNJY=
-			</data>
-			<key>hash2</key>
-			<data>
-			ATSRyccoNVpBKFsed71a0YWdEw/zU3RPPhPxHCm7VQc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			h++zzrX1kOzr0f/uURTu8Q0M500=
-			</data>
-			<key>hash2</key>
-			<data>
-			95inpk9N21CHg22wMJYhGgb7AmrjcXeYbnB4as2nXIQ=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/Current</key>
 		<dict>
@@ -76032,127 +74667,6 @@
 			<key>symlink</key>
 			<string>Versions/Current/Resources</string>
 		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLJSONAdapter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HIypP9pGI7Wk97RKy3thGsC7LSg=
-			</data>
-			<key>hash2</key>
-			<data>
-			YhksDrIzFk7TQllZD4eF2qEubtCfFlDrddfBeJEvpoc=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLManagedObjectAdapter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tjTyEh7TlZBAXcyaY1I1SmXHbE4=
-			</data>
-			<key>hash2</key>
-			<data>
-			WxYp7uqr+H3R5UnwMpDSHlxSt7MaAPhQob/BDXlWbVI=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel+NSCoding.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2tdybjH/C8ZU8VcZrX4oliXkuM8=
-			</data>
-			<key>hash2</key>
-			<data>
-			QuzPKm76puk2/uZN0s9Jqn7g5AFF6xFbnBsN450IXfc=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9c2w4hZo7o/vLu/3TaZ2vXXjwxc=
-			</data>
-			<key>hash2</key>
-			<data>
-			2JEc6fCePU0odH+dDY8947O0/wS1Ey96Vuun1HCP564=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLValueTransformer.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m6veNGSL5/Kif8yDXH5zU+2CaK8=
-			</data>
-			<key>hash2</key>
-			<data>
-			AnO4t0Ur5lBz44l14XRXgB3g6JEiUE1JBfPdvV+H7fA=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/Mantle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TYIHtg+qqzl8yG0InqTB7Oyr63A=
-			</data>
-			<key>hash2</key>
-			<data>
-			YKN3UxwC4VdZ19A/VN8Ndpdf5PVHbZlYMb9K1etJKKg=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSArray+MTLManipulationAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JkGLHSSIKlmCin6flems7m4llvE=
-			</data>
-			<key>hash2</key>
-			<data>
-			fQTG4WuuoxdNhgn6wDU29iy18nNqFwlK9F45NRbpD6w=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSDictionary+MTLManipulationAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bqGP1ngOZeJ16AY5Vi/2ObZCmlw=
-			</data>
-			<key>hash2</key>
-			<data>
-			0Jf2Da8WIPOoV0BkwF1D69nsUwbgypRDMVoedgtuJ24=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSObject+MTLComparisonAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2oBONz9+tBIWVjYGxYBIBT0b0n8=
-			</data>
-			<key>hash2</key>
-			<data>
-			86zL7jX96Spa7xT5HQJ+aYmtXD1oKLUrU4JtlO2cIqU=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLInversionAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sxXToKdUH8yMt45aTwPeM3hKmjs=
-			</data>
-			<key>hash2</key>
-			<data>
-			6xpkrCw6Z2B3EOFKGMBi6o78Hau0v0zsfGJeQMAk354=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLPredefinedTransformerAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HhBKFxBsCIBfvD6Rm6d3yjVk540=
-			</data>
-			<key>hash2</key>
-			<data>
-			QAg6gyiNeq39mqhxZ/OttPualO+F1x2E99sNuyNE1ZE=
-			</data>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle</key>
 		<dict>
 			<key>hash</key>
@@ -76211,589 +74725,6 @@
 			<key>symlink</key>
 			<string>Versions/Current/Resources</string>
 		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTKeyPathCoding.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cyxNsk/+pHVDPXDhpTi6EZ7hGU0=
-			</data>
-			<key>hash2</key>
-			<data>
-			7+5sa54/pM6B+mDJzEyysvN/OGrpMujUU3qeXj8S+zI=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTScope.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9pI2IWEUilraa3draHYz38Zm54Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			kvdtBYDCZ1ZLOyZX/dIbIlGq7aeC7wbYfn7su5RmI3I=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSArray+RACSequenceAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aWBtj1suaR52TgILGZ5y6OrJqLI=
-			</data>
-			<key>hash2</key>
-			<data>
-			e8Wxi8ArWgQkDNW1IWp3GX5R2x4h1Ee0McVgcMRB4Xo=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACCommandSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VxZYelrMGst00t0r9btLgoclyJE=
-			</data>
-			<key>hash2</key>
-			<data>
-			P/P5oX5iV5H4jyxOqBwYQG81WvCPCMvlQo9P/5GzrQc=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACTextSignalSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mRqSXf2wHF1Kdgd/GOTrX8vjYHw=
-			</data>
-			<key>hash2</key>
-			<data>
-			GVYmBgW/K4TCxDWmm2wriPIUKkl25Puzg4GKy9yYNrM=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSData+RACSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CRlWxQ8hQHrHms84HM0R+ABt/IA=
-			</data>
-			<key>hash2</key>
-			<data>
-			MCbyDsyUPVkVkmE61aXmKQ5IbJCSgpdmYp+TDfJf94I=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSDictionary+RACSequenceAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			22j52Hqwjx4IsRgL9i2Z2Xja93M=
-			</data>
-			<key>hash2</key>
-			<data>
-			iFZK6dEny2IzMWdImA1wQvJbILEIlBIPH6g/X/xs37g=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSEnumerator+RACSequenceAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Yqwbk9biU3j1RfixqitIuOSs5xE=
-			</data>
-			<key>hash2</key>
-			<data>
-			pwaU02XyBQemjNQFxhR27LkOt0PUsWmMv9BQNj3f2aA=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSFileHandle+RACSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W3KMa3H6DAVYAXyBPBQ14CEbKzQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			OnZ0np52jtgfjbMVUbZ01Dg0NyxnsVccP64HiqBx79M=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSIndexSet+RACSequenceAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wb5bT9v+7O/Nsvpwrq1crIeT9dg=
-			</data>
-			<key>hash2</key>
-			<data>
-			9ri5IKperZywndLlk0SXYWxDOzg8TGwkTYmoqFE2EzY=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSNotificationCenter+RACSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4QtYc+nDGvHn310k/SAqq4XW0xI=
-			</data>
-			<key>hash2</key>
-			<data>
-			5IqTOdKGU7nYGnlrW3Dt9yyJv0uffGLsv3fxw2NIDB8=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACAppKitBindings.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4iBZ6JprXczwMIrqyVOJDbrub34=
-			</data>
-			<key>hash2</key>
-			<data>
-			qIbHTlZv6x+S2qHJsWBQVxso9MV63BY3TvXYrFxu01c=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACDeallocating.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8538jYBm32sivVevP2MrigHex/M=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZUiamoBucRdcpyp0Hr74nt2AglEda4r127vqnKVa5bc=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACLifting.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Hr8DBe66RCRG9WJ7qSLx4oG+avo=
-			</data>
-			<key>hash2</key>
-			<data>
-			XfgnmL/bXhi9BQyip1R+z4dCb3VGN7jaMUC+zG/b144=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACPropertySubscribing.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			khscjnDf9JPygHdyF/0b+FjIy/k=
-			</data>
-			<key>hash2</key>
-			<data>
-			kvrmOx687xUJrYzizOaFkU2VWsa5sL+XAhlT6SSIsM0=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACSelectorSignal.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MvfnOkRdFA1iIRpWABROwJ/00xg=
-			</data>
-			<key>hash2</key>
-			<data>
-			gLjMB5SV2kTv0/y7BQrFca3I2B3sIHBDmQzRS8nSPu8=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSOrderedSet+RACSequenceAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5YLDS4fLE4JfHZegRlXfzjaGiuA=
-			</data>
-			<key>hash2</key>
-			<data>
-			DfxdyL+hrdD0wls1iz9mY0nysjeT6TtxhAxmf0U+DQM=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSSet+RACSequenceAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3cCPJQg1DjvGUVqIYh1nqOHigMA=
-			</data>
-			<key>hash2</key>
-			<data>
-			FJsGlOI3w/4Y/SDk/Lm/ZCd1j434wAQvoKZOC5CxSpk=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSequenceAdditions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FKnMXMtl3rXxspkZaLdtAgimLHc=
-			</data>
-			<key>hash2</key>
-			<data>
-			87JStQ2t/D0dSnDgjwqxmA52mbVlEeKnWqVsUAXE94Y=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OQS4HsiUwZP+uc3JUQGMpfi1IbM=
-			</data>
-			<key>hash2</key>
-			<data>
-			706tlEBm2QpsSZZ7k3SnZvprxTeLoY3Vi8HvlrHtaOA=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSText+RACSignalSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			E7TL5l8xXJWOOT+3PHrHTy2Dstc=
-			</data>
-			<key>hash2</key>
-			<data>
-			BaLBVdZ+234nlGOb++KkNQEK2yIArDppgJhkXHnBqdQ=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSURLConnection+RACSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iK1E78vMAfwVlVpmNhQXxfX8VlE=
-			</data>
-			<key>hash2</key>
-			<data>
-			I4hRiXzZfZEwj8DS23y4kpyZUaTD8Hv/TY/9BKjg9co=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSUserDefaults+RACSupport.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4u0N/q66xs4STGVlwfehb14oT3k=
-			</data>
-			<key>hash2</key>
-			<data>
-			MyTjJq8/G1cKeE44Lp/K4AeVFh9T/kPphFZOJRaBCSg=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBacktrace.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0oCeNqMgLF0WiRj4OC7YdUIf9WE=
-			</data>
-			<key>hash2</key>
-			<data>
-			3cSPsdBbStEHWsyf6Gmp+LxbZzAFPjFH+vYu5NU1y/w=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBehaviorSubject.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cMZmaRRePuPwZWqKf0urpWnIojc=
-			</data>
-			<key>hash2</key>
-			<data>
-			5yIBVYs/DgRR+XtgVc3xyA7wfAo18PjFij1ft4d2T0A=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACChannel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LocuZ9dgFPgUClrDTU17+PbY/uE=
-			</data>
-			<key>hash2</key>
-			<data>
-			J4TYTc23gNMFoD5NvJ0h51vl6AkVBMeKRWi+X1VHceU=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCommand.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			R4LQjxN7kcHsvJQtofCAsKWtL2I=
-			</data>
-			<key>hash2</key>
-			<data>
-			mRrCaG3kjGoXez+zMyWBQ9wsr6s35rLIfzauNYwL4CA=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCompoundDisposable.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zsc42rvNw5xSjzEqcqJm/gP4UWA=
-			</data>
-			<key>hash2</key>
-			<data>
-			gD7vSV5PyeA7NrqTbNExgJ4m2O8+KgXyTzNgmKSFHjY=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACDisposable.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BFIjAAr/YckNiOUCVgISY/0B50U=
-			</data>
-			<key>hash2</key>
-			<data>
-			dCiDXlzN/I4lZnX8uEB2hg+FXROPj/bcAu8o/LEsIDM=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACEvent.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dQu7EIGef30WA6R9P9jeiFqt444=
-			</data>
-			<key>hash2</key>
-			<data>
-			JkyFNDryczrR+pKADipQeA12xuorDobXZfgxLaozkxI=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACGroupedSignal.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c9F8ywFON+4RrYXAJ9mMTaXMAnc=
-			</data>
-			<key>hash2</key>
-			<data>
-			Gn3GQE0qVJ74L3OQ1ywOtOI6Jh9llAq7omCFJ2iEaa4=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACKVOChannel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5mTDIwhWz/quHKF75M9TSkkNOos=
-			</data>
-			<key>hash2</key>
-			<data>
-			PGtcBgC+OdxdJSO1QFDWpfY4T7buESKoK0L3F5uABYM=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACMulticastConnection.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			h3EezQb/q6CbwJ1I0/184SPHGUU=
-			</data>
-			<key>hash2</key>
-			<data>
-			JYZ+pe3JoIVFuq2HmB9UzgdD6ipqf4Ye2est+2bjT5g=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler+Subclass.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GNvZs2s30uhpmvbLrIqJ7a2Zf3Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			pL7NyGxggssMGis1V850rX/7eXnrGPjR/10/MIYegHA=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ybefbImqr+a9Oa2OsBAEbYe85iY=
-			</data>
-			<key>hash2</key>
-			<data>
-			URqFV6A/awzOHCQF/xHFWi2x0ZkUheGdm7FpVhShEi0=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACReplaySubject.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u0/XHWlr//FxG9HEW3sRDLuysT4=
-			</data>
-			<key>hash2</key>
-			<data>
-			3AVHxKXSfsGqc8hlnj/Tp0PQ8icnTpjNZX67mx+CuqM=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler+Subclass.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ky/IV3fTinp6o+VH2tDzOxaJvA4=
-			</data>
-			<key>hash2</key>
-			<data>
-			EtBRYoQCUsUtUlhjr+wcbshGE6flA9yabCy5otr2AAs=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PMZQD7TgzUJbmHJmje4g/R3vN44=
-			</data>
-			<key>hash2</key>
-			<data>
-			saAGN/T+3DgCVv3+GtG6m3wLi0SlF/Ka4FJ0CpDj+eo=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScopedDisposable.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			J4Hza5KoyOfjo1wxkS1wK20u8Q0=
-			</data>
-			<key>hash2</key>
-			<data>
-			lHakA+17uhh7QQGelr2HXejcd4qu8po3vqQIdX7hqzw=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSequence.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZRHtrho/R9TMBJo9RZB7nU2FMks=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZrAQhioheaW0yTwKUNuQ6JKQiTI+JByFI6ZMIw3zO+U=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSerialDisposable.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NzTqALsFTCgOz2ku7NzXFWmiT90=
-			</data>
-			<key>hash2</key>
-			<data>
-			Tt86NFPU24UzVpM0x2VQhFsANOB+Srtmohakx+Quegw=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal+Operations.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			H1DzoQ1bC3taEvJNZ+gm22q6EF0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZDM/+aIgHw7TNine78GI+26L+PPU/YRUXBlby7sg2oY=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iiLnOpURKQ/1gUVOIAv/tp2EX64=
-			</data>
-			<key>hash2</key>
-			<data>
-			S/W1OJT9BMscdOhLbYT2/fyeEFDyHv8OaA77mWqDovs=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACStream.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oLx7S9p5tdwYEgSL3YI1b6NNvyM=
-			</data>
-			<key>hash2</key>
-			<data>
-			1aiijLi1IDZRx0qycTI47EgvTNmNIbRmbDAYErR3Qks=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubject.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q2Q6h9ZfNybFdHJRxu5CnDL0Aqc=
-			</data>
-			<key>hash2</key>
-			<data>
-			baza+8aL3PyGcc9tkNfiIvdoi1DjArnyuawX0QarfE0=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriber.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ngoJ1ifAjQ1z7ezBsABUZ/EDpXU=
-			</data>
-			<key>hash2</key>
-			<data>
-			XeHx7G5SwSM5DS3KDCetHsIm8Y/RQ5s55rKw6slGxTE=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriptingAssignmentTrampoline.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f6KZaaxpbcpzZ7il0D5su5NmTDY=
-			</data>
-			<key>hash2</key>
-			<data>
-			uCEDDnPUSx3k8+FFjsqx6XWMgRV9S/W+wbBbuDq16Oc=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTargetQueueScheduler.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cwV6f95RcM/826QXM2UeF6oaECA=
-			</data>
-			<key>hash2</key>
-			<data>
-			XKPfJBPHRjf+Z0MiLDxTiTOsfl0wrvJWCTprDGUPn0Y=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTestScheduler.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			I7gOChaXCpK9dNV+XTx+wDSLfhA=
-			</data>
-			<key>hash2</key>
-			<data>
-			NjEKAbsOdrm0p2U7U+BWl/qmv7j3gnibfP3PNmq/4Xc=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTuple.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uUB57/XKJUn1P32dx4ZfCUL4k6g=
-			</data>
-			<key>hash2</key>
-			<data>
-			pMpMe2dsy7NR3vEGilQNAqQinr9849QL+U4DgVYYIyo=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACUnit.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ie7XEfVnGWDlB0e9xmzDhVDxFYU=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZF5U+nr0MbaQeZAoqcNsIV6C0plumwDhHDqbmCJ0lXk=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/ReactiveCocoa.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			M5M+g7GBMxjwL58vemSDrhEe7Xs=
-			</data>
-			<key>hash2</key>
-			<data>
-			qzvqjjbVcNr9pvAKuwBWo/DFcUivpX3MFUFQmn26Q/k=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/metamacros.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/urguvf1G1OQS4/DDk3RwQpXycE=
-			</data>
-			<key>hash2</key>
-			<data>
-			S4p8iAtU930PTDcjbZx+mxbtjktDJ6Mjcek8Mbf+JC0=
-			</data>
-		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
@@ -76851,72 +74782,6 @@
 		<dict>
 			<key>symlink</key>
 			<string>Versions/Current/Squirrel</string>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSBundle+SQRLVersionExtensions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nzLgVtB6Szq10hHKoJqQzFpLceM=
-			</data>
-			<key>hash2</key>
-			<data>
-			5+rEsouj5qv7saoeBjHOeG2igYRBrDVyoet346ZDtH8=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSProcessInfo+SQRLVersionExtensions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oupBsKGnDcD3H7wX+n8D4o20HGw=
-			</data>
-			<key>hash2</key>
-			<data>
-			HyLsdRhYa12c4RQESgKecfH1pk/F0UDjK9W6u6b5DdQ=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLDownloadedUpdate.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nqiz0R+fxzoKIiAaDwEyZeRkm0A=
-			</data>
-			<key>hash2</key>
-			<data>
-			uP24ktxODKJcxCfkBMHhXosftWJOBDzwLRu4JT3Nqfc=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdate.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LpOnWk0XnYlFRtv2cwtGy+iK9Fo=
-			</data>
-			<key>hash2</key>
-			<data>
-			rM91rTxlEqub9IcKmXQWgoqVqAM7Kyl46KPCV8RJnH4=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdater.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			h9/hawSeu3r5u9Dd8kC0t+PuLiM=
-			</data>
-			<key>hash2</key>
-			<data>
-			v5bzOVK5lFOtdOctJueqGpYptwSfh9qAxhjEqX7d/Ts=
-			</data>
-		</dict>
-		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/Squirrel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q1+Dk8ZEd6Gf08OAhty9RR892ow=
-			</data>
-			<key>hash2</key>
-			<data>
-			/lOyH+dCFzZHmGSoIrfTtEbCk8gyhcS698a5K//oPJY=
-			</data>
 		</dict>
 		<key>Resources/app/node_modules/electron/dist/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Modules/module.modulemap</key>
 		<dict>
