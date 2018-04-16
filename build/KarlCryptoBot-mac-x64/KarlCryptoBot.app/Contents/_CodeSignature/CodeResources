@@ -26114,7 +26114,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			eCVxVW3W4rc8iTq2ecCiEiLWy70=
+			4EQA0ofCXgMNAi58tUyd1cyHmoQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = PN4VY6TUWD</string>
